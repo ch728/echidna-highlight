@@ -14,3 +14,4 @@ Put echidna.nanorc in there and then create a .nanorc in your home directory tha
 ```bash
 echo 'include ~/.config/nano/echidna.nanorc' >> .nanorc
 ```
+Enjoy!
