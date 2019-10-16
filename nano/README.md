@@ -1,0 +1,1 @@
+# Syntax file for nano
