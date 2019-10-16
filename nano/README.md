@@ -4,8 +4,13 @@
 
 ## Using syntax config
 
-### Do you have sudo priveleges?
+Create a directory in /home to store your echidna.nanorc file.
 
-### Don't have sudo priveleges?
+```bash
+mkdir ~/.config/nano
+```
+Put echidna.nanorc in there and then create a .nanorc in your home directory that imports this file.
 
-Bummer... 
+```bash
+echo 'include ~/.config/nano/echidna.nanorc' >> .nanorc
+```
