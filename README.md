@@ -1,4 +1,5 @@
 <p align="center">
+  
 # Echidna syntax highlighting configs
 Syntax highlighting for Echidna/ASReml command files.
 
@@ -10,4 +11,5 @@ Syntax highlighting for Echidna/ASReml command files.
 * Nano  (Linux/Mac)
 * Sublime (Linux/Mac/Windows)
 * Notepad++ (Windows)
+
 </p>
