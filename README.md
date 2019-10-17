@@ -3,6 +3,6 @@ Config files specifying syntax highlighting for Echidna/ASReml command files for
 
 ## Supported editors 
 
-* Micro
-* Nano
+* Micro (Linux/Mac)
+* Nano  (Linux/Mac)
  
