@@ -1,0 +1,16 @@
+
+syntax echidna "\.(as|es)$"
+comment "#"
+
+
+color cyan "\<(residual|RESIDUAL|PREDICT|predict|TABULATE|tabulate|PLOT|plot)\>"
+color cyan "\<[0-9]+\>"
+color cyan "[.,~:+()]"
+color magenta  "\<(units|Trait|mu|mv|Zero|Half)\>"
+color blue "\<(id|idv|ar1|ar1v|coru|coruv|diag|us|nrm)\>"
+color blue "\<(sat|and|at|c|dev|fac|hs|inv|leg|lin|log|sqrt|spl|uni|val)\>"
+color blue "\*"
+color blue start="!" end="\W"
+color blue start="\$" end="\W"
+color green "(^|[[:blank:]])#.*"
+color cyan "TITLE:.*"
