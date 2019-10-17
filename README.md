@@ -1,5 +1,5 @@
 # Echidna syntax highlighting configs
-Config files specifying syntax highlighting for Echidna/ASReml command files for various text editors.
+Syntax highlighting for Echidna/ASReml command files.
 
 ## Supported editors 
 
