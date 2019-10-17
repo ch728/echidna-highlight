@@ -1,7 +1,7 @@
 # Syntax file for Micro
 
 ## Getting Micro
-Information for installing Micro can be found on their website: https://micro-editor.github.io/
+Information for installing Micro can be found at https://micro-editor.github.io/
 
 ## Using Syntax Config (Linux)
 Navigate to the .config/micro directory on your system (should be in home).
