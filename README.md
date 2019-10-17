@@ -5,4 +5,6 @@ Config files specifying syntax highlighting for Echidna/ASReml command files for
 
 * Micro (Linux/Mac)
 * Nano  (Linux/Mac)
+* Sublime (Linux/Mac/Windows)
+* Notepad++ (Windows)
  
