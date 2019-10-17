@@ -1,1 +1,1 @@
-# Syntax file for sublime (Linux/Mac/Windows)
+# Syntax file for Sublime (Linux/Mac/Windows)
