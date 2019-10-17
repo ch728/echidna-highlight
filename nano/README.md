@@ -1,4 +1,4 @@
-# Syntax file for Nano (Linux)
+# Syntax file for Nano (Linux/Mac)
 
 ## Getting Nano
 Nano is installed by defualt in most Linux distros, but if you are using some exotic distro you can download a version of nano here https://www.nano-editor.org/download.php
