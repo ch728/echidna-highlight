@@ -1,5 +1,5 @@
   
-# Echidna syntax highlighting configs
+# Echidna syntax highlighting 
 Syntax highlighting for Echidna/ASReml command files.
 
 ![](https://github.com/ch728/echidna-highlight/raw/master/echidna.jpeg)
