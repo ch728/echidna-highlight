@@ -8,14 +8,8 @@ rules:
     - constant.number: "\\b[0-9]+\\b"
     - statement: "\\b(residual|PREDICT|predict|TABULATE|tabulate|PLOT|plot)\\b"
     - identifier: "\\b(id|idv|ar1|ar1v|coru|coruv|diag|us|nrm)\\b"
-    - identifier:
-        start: "!"
-        end: "\\W"
-        rules: []
-    - identifier:
-        start: "[\\$]"
-        end: "\\W"
-        rules: []
+    - identifier: "!\\w+"
+    - identifier: "\\$\\w+"
     - identifier: "\\b(sat|and|at|c|dev|fac|hs|inv|leg|lin|log|sqrt|spl|uni|val)\\b"
     - type: "\\*"
     - symbol.operator: "([.,~:+()])"
@@ -24,4 +18,3 @@ rules:
         start: "#"
         end: "$"
         rules: []
-        
