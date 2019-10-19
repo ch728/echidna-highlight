@@ -3,9 +3,14 @@
 
 <p align="center">  Syntax highlighting for Echidna/ASReml command files. </p>
 
-![](https://github.com/ch728/echidna-highlight/raw/master/echidna.jpeg)
+<p align="center"> 
+  
+<img src=https://github.com/ch728/echidna-highlight/raw/master/echidna.jpeg/>
 
- ## Supported text editors 
+</p>
+
+
+<h2 align="center"> Supported text editors  </h2>
 
 * Micro (Linux/Mac)
 * Nano  (Linux/Mac)
