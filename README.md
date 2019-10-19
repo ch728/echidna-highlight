@@ -1,7 +1,6 @@
   
 <h1 align="center"> Echidna syntax highlighting </h1>
 
-<p align="center">  Syntax highlighting for Echidna/ASReml command files. </p>
 
 <p align="center"> 
   
@@ -9,8 +8,9 @@
 
 </p>
 
+Syntax highlighting for Echidna/ASReml command files. 
 
-<h2 align="center"> Supported text editors  </h2>
+## Supported text editors  
 
 * Micro (Linux/Mac)
 * Nano  (Linux/Mac)
