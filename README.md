@@ -8,8 +8,6 @@
 
 </p>
 
-Syntax highlighting for Echidna/ASReml command files. 
-
 ## Supported text editors  
 
 * Micro (Linux/Mac)
