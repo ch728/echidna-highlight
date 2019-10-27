@@ -12,6 +12,9 @@
 
 * Micro (Linux/Mac)
 * Nano  (Linux/Mac)
+
+## TODO
 * Sublime (Linux/Mac/Windows)
 * Notepad++ (Windows)
+
 
