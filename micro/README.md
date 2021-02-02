@@ -4,7 +4,7 @@
 Information for installing Micro can be found at https://micro-editor.github.io/
 
 ## Using Syntax Config 
-Navigate to the .config/micro directory on your system (should be in home).
+Navigate to the .config/micro directory on your system (should be in home). Make it if it doesn't exist.
 
 ```bash
 cd  ~/.config/micro
